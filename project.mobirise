@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "1000.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -19,7 +19,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/212-128x160.png",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "google-analytics": "<!-- Yandex.Metrika counter --> <script type=\"text/javascript\" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(62494765, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <noscript><div><img src=\"https://mc.yandex.ru/watch/62494765\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript> <!-- /Yandex.Metrika counter -->\n\n\n<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n\n",
+    "google-analytics": "\n\n\n<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n\n",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -40,7 +40,7 @@
     },
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://kraiton1.github.io/037/037.html",
+    "siteUrl": "https://kraiton1.github.io/037-2/page1.html",
     "uniqCompNum": 11,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
@@ -301,9 +301,9 @@
         }
       ]
     },
-    "page1.html": {
+    "1000.html": {
       "settings": {
-        "title": "Clone",
+        "title": "Moda",
         "meta_descr": "Это уникальный торговый сайт с характерным тоном \nориентированный на женскую моду. \nМы предлагаем продукцию с высокими эксплуатационными характеристиками \nвключая женскую одежду \nювелирные изделия \nтовары для красоты и здоровья \nобувь \nсумки и многое другое ",
         "header_custom": "",
         "footer_custom": "",
