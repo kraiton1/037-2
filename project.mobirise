@@ -290,7 +290,7 @@
             }
           },
           "text1": "",
-          "text2": "<br><br>Email: support@boutiquefeel.com<br>",
+          "text2": "<br><br>Email: kraiton379@gmail.com&nbsp;<br>",
           "text3": "",
           "alias": "purity/components",
           "_tags": [
@@ -456,9 +456,9 @@
               "color": "#0275d8"
             },
             ".btn": {
-              "font-size": "32px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+              "font-size": "36px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           },
           "_params": {
@@ -545,7 +545,7 @@
             }
           },
           "text1": "",
-          "text2": "<br><br>Email: support@boutiquefeel.com<br>",
+          "text2": "<br><br>Email: kraiton379@gmail.com&nbsp;<br>",
           "text3": "",
           "alias": "purity/components",
           "_tags": [
